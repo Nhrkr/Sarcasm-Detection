@@ -11,7 +11,7 @@ functions to load the dataset, split into test, train and validation dataset and
 
 Models:
 There are different deep learning algorithms that are implemented for sarcasm detection
-1.LSTM
+1.LSTM 
 2.Bidirectional LSTM without attention
 3.Bidirectional LSTM with attention
 4.CNN Bidirectional LSTM with attention.
