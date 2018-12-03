@@ -5,7 +5,8 @@ Dataset used of this: The Internet Argument Corpus (IAC) version 2 : Filename: s
 https://nlds.soe.ucsc.edu/iac2
 
 Preprocessing:
-For the corpus, all the rows with less than 80 tokens are removed. Pretrained embeddings are used from GloVe, for the common crawl data with embedding dimension d=300.
+For the corpus, all the rows with less than 80 tokens are removed. Pretrained embeddings are used from GloVe, for the common crawl data with embedding dimension d=300 and 1.9M words
+https://nlp.stanford.edu/projects/glove/
 functions to load the dataset, split into test, train and validation dataset and to load to pretrainined embeddings in preprocess.py
 
 Models:
